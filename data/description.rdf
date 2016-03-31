@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:schema="http://schema.org/">
+
+  <schema:AudioObject rdf:about="http://1001Stories.org/ark:/#34567/dfdghvbjk">
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cane Farming</schema:name>
+    <schema:description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marianne Danastas tells the story of water from the perspective of a cane farmer.</schema:description>
+    <schema:datecreated>2014-09-11</schema:datecreated>
+    <schema:locationCreated>
+      <schema:place>
+        <schema:geo>
+          <schema:GeoCoordinates>
+            <schema:latitude>-21.139735</schema:latitude>
+            <schema:longitude>149.1724777</schema:longitude>
+          </schema:GeoCoordinates>
+        </schema:geo>
+
+      </schema:place>
+    </schema:locationCreated>
+
+  </schema:AudioObject>
+
+</rdf:RDF>

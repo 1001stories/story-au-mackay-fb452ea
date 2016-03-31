@@ -1,0 +1,17 @@
+  @base <http://1001Stories.org/ark:/> .
+  @prefix schema: <http://schema.org/> .
+  @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+  <#34567/dfdghvbjk>
+    a schema:AudioObject ;
+    schema:name "Cane Farming"^^xsd:string ;
+    schema:description "Marianne Danastas tells the story of water from the perspective of a cane farmer."^^xsd:string ;
+    schema:datecreated "2014-09-11" ;
+    schema:locationCreated [
+        a schema:place ;
+        schema:geo [
+           a schema:GeoCoordinates ;
+           schema:latitude "-21.139735" ;
+           schema:longitude "149.1724777"
+        ] ;
+    ] .

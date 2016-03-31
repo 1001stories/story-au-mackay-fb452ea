@@ -1,0 +1,16 @@
+8997d706ebe35707144f784696cf7e95e19efd7f  data/.DS_Store
+be753ad5f0640fabc790a0a853c99f94743b6f0d  data/CONTRIBUTOR.md
+34b2b37ec594d86bd391137b4fb644eccb17bdbb  data/LICENSE.md
+336739b1983afc0a6439b3a15f30b75a7fd77cb4  data/LICENSE.ttl
+f7116cc6b66d4fcc579721d9953070487b0e28ba  data/README.md
+0739c4f9c169fa232df5fdfd994f175af2f20113  data/description.json-ld
+fd609cdd7f172e9d4c93631062c9038789871e01  data/description.rdf
+f397049a90c9ec2980bdda4c56374f2746257821  data/description.ttl
+a31164537b9475caf9d89f80dbf967b44c15dbca  data/technical.flac.ttl
+a31164537b9475caf9d89f80dbf967b44c15dbca  data/transcription.fr.ttml
+a31164537b9475caf9d89f80dbf967b44c15dbca  data/transcription.mi.ttml
+a31164537b9475caf9d89f80dbf967b44c15dbca  data/transcription.ttml
+df2fbeb1400acda0909a32c1cf6bf492f1121e07  data/audio/.DS_Store
+f9b454a3702bcd7bb849d67dc92e84ea0e65ce2a  data/audio/interview.flac
+1ea2c022e655e8b593902cf26ba4b9efeff8aee9  data/audio/interview.mp3
+b1e6dfd4d6c00b71f7a9ca6f94e8f237978752b0  data/images/cover.jpg
